@@ -2,13 +2,7 @@
 	"name": "sendy-api-node",
 	"version": "0.2.0",
 	"description": "Sendy API for Node.js",
-	"keywords": [
-		"sendy",
-		"aws SES",
-		"bulk email",
-		"mail",
-		"sendy api"
-	],
+	"keywords": ["sendy", "aws SES", "bulk email", "mail", "sendy api"],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ahmadawais/Sendy-API-Node.git"
@@ -18,8 +12,10 @@
 	"license": "MIT",
 	"author": "mrahmadawais",
 	"dependencies": {
-		"release-it": "^7.4.0",
 		"request": "^2.85.0"
+	},
+	"devDependencies": {
+		"release-it": "^7.4.0"
 	},
 	"scripts": {
 		"release": "release-it"
