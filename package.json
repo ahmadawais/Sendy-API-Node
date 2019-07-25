@@ -21,7 +21,7 @@
 		"request": "^2.85.0"
 	},
 	"devDependencies": {
-		"release-it": "^7.4.0"
+		"release-it": "^12.3.4"
 	},
 	"scripts": {
 		"release": "release-it"
