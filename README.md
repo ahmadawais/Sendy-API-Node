@@ -56,7 +56,7 @@ npm i sendy-api-node
 First of all add this.
 
 ```js
-var Sendy = require('sendy-api'),
+var Sendy = require('sendy-api-node'),
     sendy = new Sendy('http://your_sendy_installation/', 'your_api_key');
 ```
 
