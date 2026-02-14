@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://on.ahmda.ws/qrZY/c" />
 
   Sendy API for Node.js
 </h1>
@@ -61,8 +60,6 @@ var Sendy = require('sendy-api'),
 ```
 
 <br>
-
-![Example](https://on.ahmda.ws/qr5M/c)
 
 ## API
 
@@ -143,8 +140,6 @@ sendy.createCampaign(params, function(err,result){
 ```
 
 <br>
-
-![License](https://on.ahmda.ws/qsw0/c)
 
 ## License & Attribution
 
