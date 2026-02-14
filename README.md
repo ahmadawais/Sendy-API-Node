@@ -36,7 +36,6 @@
 
 <br>
 
-![Install](https://on.ahmda.ws/qsLN/c)
 
 ## Installation
 
@@ -48,7 +47,6 @@ npm i sendy-api-node
 
 <br>
 
-![Example](https://on.ahmda.ws/qsO2/c)
 
 ## Examples
 
